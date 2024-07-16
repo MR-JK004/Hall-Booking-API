@@ -73,7 +73,7 @@ Use a tool like Postman or curl to interact with the API endpoints listed below.
 - **Request Body:**
   ```json
   {
-    "customerName": "John Doe",
+    "customerName": "Jitender Kumar M",
     "date": "2024-07-17",
     "startTime": "10:00",
     "endTime": "11:00",
