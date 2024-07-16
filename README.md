@@ -1,4 +1,4 @@
-# Room Booking API
+# Hall Booking API
 
 This project provides an API for managing room bookings. It allows you to create rooms, book rooms, list all rooms with their booking details, get all bookings, and fetch customer booking counts. The application is built using Express.js and provides several endpoints for interaction.
 
