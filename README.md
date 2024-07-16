@@ -140,5 +140,3 @@ const bookings = [
 Each endpoint handles errors gracefully and returns appropriate HTTP status codes along with error messages.
 
 - **500 Internal Server Error:** Occurs when there's an issue processing the request on the server.
-
-Make sure to handle these errors in your client applications to provide a smooth user experience.
