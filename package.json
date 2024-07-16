@@ -1,0 +1,16 @@
+{
+  "name": "hall-booking-api",
+  "version": "1.0.0",
+  "description": "index.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  }
+}
